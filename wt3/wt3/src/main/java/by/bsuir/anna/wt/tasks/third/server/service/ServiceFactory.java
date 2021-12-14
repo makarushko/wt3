@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.third.server.service;
+package by.bsuir.anna.wt.tasks.third.server.service;
 
 public class ServiceFactory {
     private static final ServiceFactory INSTANCE = new ServiceFactory();
