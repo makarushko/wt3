@@ -1,7 +1,7 @@
-package by.bsuir.dshparko.wt.tasks.third.server;
+package by.bsuir.anna.wt.tasks.third.server;
 
-import by.bsuir.dshparko.wt.tasks.third.ScannerData;
-import by.bsuir.dshparko.wt.tasks.third.сlient.Client;
+import by.bsuir.anna.wt.tasks.third.ScannerData;
+import by.bsuir.anna.wt.tasks.third.сlient.Client;
 
 import java.io.IOException;
 import java.net.ServerSocket;
