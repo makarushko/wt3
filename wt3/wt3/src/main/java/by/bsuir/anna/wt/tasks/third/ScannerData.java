@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.third;
+package by.bsuir.anna.wt.tasks.third;
 
 import java.util.Scanner;
 
