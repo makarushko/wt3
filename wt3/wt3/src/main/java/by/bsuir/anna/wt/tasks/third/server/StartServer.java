@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.third.server;
+package by.bsuir.anna.wt.tasks.third.server;
 
 
 public class StartServer {
