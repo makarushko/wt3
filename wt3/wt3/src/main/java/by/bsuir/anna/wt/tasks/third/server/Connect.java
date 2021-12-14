@@ -1,9 +1,9 @@
-package by.bsuir.dshparko.wt.tasks.third.server;
+package by.bsuir.anna.wt.tasks.third.server;
 
-import by.bsuir.dshparko.wt.tasks.third.server.command.Command;
-import by.bsuir.dshparko.wt.tasks.third.server.command.CommandProvider;
-import by.bsuir.dshparko.wt.tasks.third.server.command.exception.CommandException;
-import by.bsuir.dshparko.wt.tasks.third.server.command.impl.DisconnectCommand;
+import by.bsuir.anna.wt.tasks.third.server.command.Command;
+import by.bsuir.anna.wt.tasks.third.server.command.CommandProvider;
+import by.bsuir.anna.wt.tasks.third.server.command.exception.CommandException;
+import by.bsuir.anna.wt.tasks.third.server.command.impl.DisconnectCommand;
 
 import java.io.*;
 import java.net.Socket;
