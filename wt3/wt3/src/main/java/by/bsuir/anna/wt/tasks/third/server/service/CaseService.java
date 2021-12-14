@@ -1,7 +1,7 @@
-package by.bsuir.dshparko.wt.tasks.third.server.service;
+package by.bsuir.anna.wt.tasks.third.server.service;
 
-import by.bsuir.dshparko.wt.tasks.third.server.dao.DAOFactory;
-import by.bsuir.dshparko.wt.tasks.third.server.model.Case;
+import by.bsuir.anna.wt.tasks.third.server.dao.DAOFactory;
+import by.bsuir.anna.wt.tasks.third.server.model.Case;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
