@@ -1,6 +1,6 @@
-package by.bsuir.dshparko.wt.tasks.third.сlient;
+package by.bsuir.anna.wt.tasks.third.сlient;
 
-import by.bsuir.dshparko.wt.tasks.third.ScannerData;
+import by.bsuir.anna.wt.tasks.third.ScannerData;
 
 import java.io.*;
 import java.net.InetAddress;
