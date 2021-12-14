@@ -1,7 +1,7 @@
-package by.bsuir.dshparko.wt.tasks.third.server.command;
+package by.bsuir.anna.wt.tasks.third.server.command;
 
-import by.bsuir.dshparko.wt.tasks.third.server.command.exception.CommandException;
-import by.bsuir.dshparko.wt.tasks.third.server.command.impl.*;
+import by.bsuir.anna.wt.tasks.third.server.command.exception.CommandException;
+import by.bsuir.anna.wt.tasks.third.server.command.impl.*;
 
 public class CommandProvider {
     private static final CommandProvider INSTANCE = new CommandProvider();
