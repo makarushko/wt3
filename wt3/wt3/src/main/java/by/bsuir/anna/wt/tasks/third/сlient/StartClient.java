@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.third.сlient;
+package by.bsuir.anna.wt.tasks.third.сlient;
 
 public class StartClient {
     public static void main(String argc[]){
