@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.third.server.dao;
+package by.bsuir.anna.wt.tasks.third.server.dao;
 
 public class DAOFactory {
     private static final DAOFactory INSTANCE = new DAOFactory();
