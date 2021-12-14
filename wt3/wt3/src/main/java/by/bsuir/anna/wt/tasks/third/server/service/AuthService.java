@@ -1,6 +1,6 @@
-package by.bsuir.dshparko.wt.tasks.third.server.service;
+package by.bsuir.anna.wt.tasks.third.server.service;
 
-import by.bsuir.dshparko.wt.tasks.third.server.model.AuthType;
+import by.bsuir.anna.wt.tasks.third.server.model.AuthType;
 
 import java.util.HashMap;
 import java.util.Map;
