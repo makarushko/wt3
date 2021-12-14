@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.third.сlient;
+package by.bsuir.anna.wt.tasks.third.сlient;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
